@@ -24,7 +24,7 @@ We would like to thank the referees for their comments. The modifications we int
 
 - Reviewer 2 wrote: "What is the physical meaning of p*? Can they explain this
 interaction rule more intuitively?"
-  - ???????
+  - We have included an explanation for the meaning of p* soon after Equation 2.
 
 - Reviewer 2 : "3) The physical meaning of sigma is quite confusing. In the
   conclusion they mention that sigma defines the trust of one agent on other
@@ -67,7 +67,8 @@ interaction rule more intuitively?"
 
 - Reviewer 2: "5) Why do they take rho_2=sqrt(n)*rho_1 in page 13 instead of,
 for instance, rho_2=n*rho_1?"
-  - ?????
+  - The explanation, that for independent processes it is the variance that is expected to add,
+  making it a factor sqrt(n) for the standard deviation was now added to the discussion.
 
 
 -  Reviewer 2: “6) It is mentioned in the conclusions”. . . it makes sense to
